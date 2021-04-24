@@ -1,0 +1,24 @@
+b Add 7
+b Add 9
+a Add 9
+b Add 54
+a Add 1
+a Add 1
+a Add 2
+a Add 3
+a Add 4
+a Remove 1
+a Add 5
+a Interception
+a Union 
+a Difference
+b Add 76
+b Add 43
+b Add 376
+a Remove 9
+b Difference
+a Remove 3
+a Remove 4
+a Add 76
+b Interception
+QUIT
